@@ -1,3 +1,3 @@
-# PrixFixe
+# Dinner Done Better
 
-PrixFixe is a cooking app that seeks to help streamline your family's food preparation by making recipes crystal clear, indicating what steps can be taken in advance, and setting up grocery lists automatically.
+Dinner Done Better is the best dang lil' cooking app on the internet. Streamline your family's food preparation by making recipes crystal clear, indicating what steps can be performed in advance, and setting up grocery lists automatically.
